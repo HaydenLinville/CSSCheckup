@@ -1,0 +1,28 @@
+body {
+ background-image: url(../assets/Babyshark.jpg);
+}
+
+
+ul{font-family: Comic Sans MS;}
+
+#header {
+ margin: 50px 50px 50px 50px;
+ background-color: lightblue;
+ padding: 1px;
+ border: 3px dotted rgb(236, 51, 205);
+}
+
+h1 {text-align: center;
+}
+
+.mainbackground {
+ background-color: lightslategray;
+ border: 3px solid black;
+}
+
+#secondbackground{
+ width: 730px;
+ height: 820px;
+ background-color: aqua;
+ text-align: center;
+}
